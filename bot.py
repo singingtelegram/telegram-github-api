@@ -3,7 +3,7 @@ import requests
 import json
 import telegram
 
-API_KEY = "fpo_bar"
+API_KEY = "foo_bar"
 
 def lookup(update, context):
     try:
